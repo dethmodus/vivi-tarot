@@ -177,7 +177,7 @@ function About() {
             transition={{ duration: 0.6 }}
           >
             <div className="about-image-wrapper">
-              <img src="/images/vivi-photo.jpg" alt="Виви" className="about-img" />
+              <img src="./images/vivi-photo.jpg" alt="Виви" className="about-img" />
             </div>
           </motion.div>
           <motion.div 
